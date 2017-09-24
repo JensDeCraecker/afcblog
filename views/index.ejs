@@ -1,0 +1,35 @@
+<% include header.ejs %>
+
+<div id="gridcontainer">
+
+      <div id="item-aa">
+        <% include logo.ejs %>
+      </div>
+
+      <div id="item-ab">
+        <% include icons.ejs %>
+      </div>
+
+      <div id="item-ac">
+        <% include nav.ejs %>
+      </div>
+
+
+      <div id="item-b">
+
+        <section>
+          <% var teller = 1; %>
+          <% posts.forEach(function(post){ %>
+            <p>
+              <a class="post-link" href="/post"> <%- post.title %></a> |
+              <span><%- post.date %></span>
+              <p><%- post.summary %></p>
+            </p>
+          <% teller++;}); %>
+        </section>
+
+
+      </div>
+      <% include gototop.ejs %>
+</div>
+<% include footer.ejs %>

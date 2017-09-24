@@ -1,0 +1,47 @@
+{
+    "blogposts":
+    [
+        {
+            "title": "Les 1 - Introductie",
+            "date": "18/09/2017",
+            "category": "introductie",
+            "summary": "18/09/2017 was onze eerste les Advanced Front-end Coding. Deze wordt gegeven door Kristof Michiels. Hij gaat ons 6 weken leiden/lijden door de 'Mern'-stack. Deze bestaat uit 'MongoDB','Express','React' en 'Node'. 'Node' en 'Express'hebben we vorig jaar tijdens CMT4 al eens bekeken. Dit was dan ook onze eerste opdracht om hiermee aan de slag te gaan. ",
+            "body": "<p>Maak een volledige persoonlijke website in Node en Express. Je zal ze gebruiken om je proces bij het volgen van dit vak te documenteren (met posts). Je data (posts, pages, tags, categories) sla je op in json-bestanden. Wat de layout betreft: je maakt gebruik van CSS grid layout. Je zet online via Heroku. Niet verplicht maar aan te raden: een eigen domeinnaam. </p>"
+        },
+        {
+          "title": "Les 2 - MongoDB & Keystone",
+          "date": "25/09/2017",
+          "category": "MongoDB",
+          "summary": "TBA",
+          "body": "<p></p>"
+        },
+        {
+          "title": "Les 3 - TBA",
+          "date": "2/10/2017",
+          "category": "TBA",
+          "summary": "TBA",
+          "body": "<p></p>"
+        },
+        {
+          "title": "Les 4 - TBA",
+          "date": "9/10/2017",
+          "category": "TBA",
+          "summary": "TBA",
+          "body": "<p></p>"
+        },
+        {
+          "title": "Les 5 - TBA",
+          "date": "17/10/2017",
+          "category": "TBA",
+          "summary": "TBA",
+          "body": "<p></p>"
+        },
+        {
+          "title": "Les 6 - TBA",
+          "date": "24/10/2017",
+          "category": "TBA",
+          "summary": "TBA",
+          "body": "<p></p>"
+        }
+    ]
+}
